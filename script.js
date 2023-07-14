@@ -26,6 +26,11 @@ let quotes = [
     quote: "If you want something done, ask a busy person to do it.",
     source: "Laura Ingalls Wilder",
   },
+  {
+    quote:
+      "The most important thing is to enjoy your life - to be happy - it's all that matters.",
+    source: "Steve Jobs",
+  },
 ];
 
 button.addEventListener("click", getQuote);

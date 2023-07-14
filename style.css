@@ -12,6 +12,10 @@ html {
   font-size: 2em;
 }
 
+.author {
+  font-style: italic;
+}
+
 .card {
   width: 60%;
   margin-left: 18%;
