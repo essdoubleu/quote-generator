@@ -31,6 +31,10 @@ let quotes = [
       "The most important thing is to enjoy your life - to be happy - it's all that matters.",
     source: "Steve Jobs",
   },
+  {
+    quote: "They don't think it be like it is, but it do.",
+    source: "Oscar Gamble",
+  },
 ];
 
 button.addEventListener("click", getQuote);
